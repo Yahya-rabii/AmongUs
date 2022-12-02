@@ -21,9 +21,6 @@ This game may be detected as a malicious software dw about that , The only reaso
    <a href="https://developer.mozilla.org/en-US/docs/Web/Java" target="_blank"> 
      <img alt="Java" src="https://img.shields.io/badge/Java%20-%23F7DF1E.svg?logo=Java&logoColor=black">
    </a>
-   <a href="https://developer.mozilla.org/en-US/docs/Web/bootstrap" target="_blank"> 
-     <img alt="bootstrap" src="https://img.shields.io/badge/bootstrap%20-%23F7DF1E.svg?logo=bootstrap&logoColor=black">
-   </a>
 
 
 ### Prerequisites
