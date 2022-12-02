@@ -19,7 +19,7 @@ This game may be detected as a malicious software dw about that , The only reaso
      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
    </a>
    <a href="https://developer.mozilla.org/en-US/docs/Web/Java" target="_blank"> 
-     <img alt="Java" src="https://img.shields.io/badge/Java%20-%23F7DF1E.svg?logo=java&logoColor=black">
+     <img alt="Java" src="https://img.shields.io/badge/Java%20-%23F7DF1E.svg?logo=Java&logoColor=black">
    </a>
    <a href="https://developer.mozilla.org/en-US/docs/Web/bootstrap" target="_blank"> 
      <img alt="bootstrap" src="https://img.shields.io/badge/bootstrap%20-%23F7DF1E.svg?logo=bootstrap&logoColor=black">
